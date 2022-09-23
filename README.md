@@ -11,3 +11,4 @@ git clone URL
 3. remote에서 commit을 하나 더 쌓은 다음 local에서 pull한다.
 4. 로컬에서 commit을 쌓습니다.
 5. 로컬에서 commit을 다시 쌓습니다.
+5. 리모트에서 commit을 쌓습니다.
